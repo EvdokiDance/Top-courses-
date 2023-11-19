@@ -1,0 +1,13 @@
+.fill svg {
+	transition: all 0.2s;
+
+	fill: var(--primary);
+}
+
+.star svg {
+	margin-right: 5px;
+}
+
+.pointer {
+	cursor: pointer;
+}
